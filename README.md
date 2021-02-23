@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a recently completed graduation in ... Computer science
 - 🌱 I’m currently learning ... React 
-- 👯 I’m looking to collaborate on ...web devoloping
-- 🤔 I’m looking for help with ...web devoloping
+- 👯 I’m looking to collaborate on ...web developing
+- 🤔 I’m looking for help with ...web developing
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...[facebook](https://www.facebook.com/profile.php?id=100007546246134)
 - 😄 Pronouns: ...He/Him
